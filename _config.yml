@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: Accessibility Guide
+name: San Francisco Accessibility Guide
 exclude:
   - /vendor
   
@@ -92,7 +92,7 @@ repos:
 
 back_link:
   url: "https://sfgov.org"
-  text: Official City Website
+  text: City Website
 
 defaults:
   -
