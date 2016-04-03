@@ -11,12 +11,12 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
-  url: https://18f.gsa.gov
+  name: City and County of San Francisco
+  url: https://sfgov.org
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18f-logo.png
-logoalt: 18f logo
+#logourl: /assets/img/18f-logo.png
+#logoalt: 18f logo
 
 # Navigation
 # List links that should appear in the site sidebar here
@@ -86,13 +86,13 @@ navigation:
   internal: true
 
 repos:
-- name: Accessibility
+- name: Web Accessibility Guide
   description: Main repository
-  url: https://github.com/18F/accessibility
+  url: https://github.com/MODsf/MODsf.github.io
 
 back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
+  url: "https://sfgov.org"
+  text: Official City Website
 
 defaults:
   -
