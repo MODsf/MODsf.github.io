@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: San Francisco Accessibility - Web Development Guide
+name: San Francisco Accessibility Web Development Guide
 exclude:
   - /vendor
   
